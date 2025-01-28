@@ -1,2 +1,2 @@
-# CS1103
+# OS
 Operating Systems
