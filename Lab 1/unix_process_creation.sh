@@ -5,9 +5,9 @@ echo "Parent Process ID: $$"
 
 # Function to create a child process
 create_child_process() {
-echo "Starting Child Process..."
-sleep 3 # Simulate some work
-echo "Child Process ID: $PPID , Parent Process ID: $$"
+  echo "Starting Child Process..."
+  sleep 3 # Simulate some work
+  echo "Child Process ID: $PPID , Parent Process ID: $$"
 }
 
 # Create first child process
