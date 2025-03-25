@@ -59,7 +59,7 @@ while true; do
 		exit 0
 		;;
 		*) # Invalid option
-		echo "Invalid option. Please select 1-3."
+		echo "Invalid option. Please select 1-4."
 		;;
 	esac
 	echo "" # Print a newline for better readability
