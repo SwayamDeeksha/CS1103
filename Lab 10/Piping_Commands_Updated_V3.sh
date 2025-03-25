@@ -64,7 +64,7 @@ echo "6. Exit"
 
 # Loop until the user chooses to exit
 while true; do
-	read -p "Select an option (1-5): " option
+	read -p "Select an option (1-6): " option
 	
 	case $option in
 		1) # List directory contents
